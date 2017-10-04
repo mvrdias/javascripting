@@ -10,4 +10,4 @@ function countLetters (palavra) {
   }
   return results;
 }
-console.log (countLetters ('jjj dfg kol 34'));
+console.log (countLetters ('lighthouse in the house'));
